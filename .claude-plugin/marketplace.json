@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "beast-plan-marketplace",
+  "name": "marketplace-test",
   "description": "Beast Plan - Automated iterative planning with 5-actor verification pipeline",
   "owner": {
     "name": "Chornomorets"
