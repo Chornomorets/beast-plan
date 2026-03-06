@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "beast-plan-marketplace",
+  "description": "Beast Plan - Automated iterative planning with 5-actor verification pipeline",
+  "owner": {
+    "name": "Chornomorets"
+  },
+  "plugins": [
+    {
+      "name": "beast-plan",
+      "description": "Automated iterative planning with 5-actor verification pipeline: Researcher, Planner, Skeptic, TDD Reviewer, Critic",
+      "category": "productivity",
+      "source": ".",
+      "homepage": "https://github.com/Chornomorets/beast-plan"
+    }
+  ]
+}
